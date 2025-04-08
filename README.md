@@ -1,6 +1,7 @@
 # Concepts in Python: Loops, Functions, and Returns
 
-By the end of this project, I created a number of examples that helped me develop my understanding of key Python concepts, such as **loops**, **methods**, **functions**, and **returns**, enabling me to write high-quality code. 
+By the end of this project, I created a number of examples that helped me develop my understanding of key Python concepts, such as **loops**, **methods**, **functions**, and **returns**, 
+enabling me to write high-quality code. 
 
 This project took my beginner knowledge of Python to the next level. 
 
