@@ -20,4 +20,5 @@ As a result, I was able to write more complex code and solve more difficult prob
 
 ---
 
+![](https://github.com/TammyTheAnalyst/Python-Loops-Functions-and-Returns/blob/main/Screenshot%20(4571).png)
 
